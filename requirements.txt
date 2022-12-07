@@ -4,7 +4,7 @@ attrs==17.2.0
 Automat==0.6.0
 backports.functools-lru-cache==1.4
 captcha-solver==0.1.1
-certifi==2017.4.17
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 configparser==3.5.0
